@@ -1,0 +1,5 @@
+bin/
+*.class
+data/
+sources.txt
+test_input.txt
